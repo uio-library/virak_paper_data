@@ -1,4 +1,4 @@
-date,searches,search string,search string cleaned,field searched,search type,active tab,resource type,signed in,on campus,type of query,reason no results,resource,meant,pensum,still 0 res?,spelling suggestion?,notes
+date,searches,search string,search string cleaned,field searched,search type,active tab,resource type,signed in,on campus,type of query,reason no results,resource,meant,curriculum-related,still 0 res?,spelling suggestion?,notes
 8/18/2016,1,"""Zhang K"" / back",zhang k back,creator / any,Keyword / Keyword,default_tab,All items,0,1,author,wrong field,_unknown,,_unknown,no,n/a,
 9/25/2015,1,"Fukuyama, F. (2013): What Is Governance? Governance, Vol. 26, No. 3, July 2013 (s. 347–368).",fukuyama f. (2013): what is governance governance vol. 26 no. 3 july 2013 (s. 347–368).,any,,,Not specified,0,,citation,pasted citation,article,,yes,no,n/a,http://www.uio.no/studier/emner/sv/statsvitenskap/STV2400/h14/pensumliste/
 6/8/2016,1,9781474248303,9781474248303,any,,default_tab,All items,0,1,isbn,wrong scope,book,WorldCALL: Sustainability and Computer-Assisted Language Learning,no,yes,n/a,
