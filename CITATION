@@ -1,0 +1,17 @@
+Please cite as:
+
+Huurdeman, H. C., Aamodt, M., & Heggø, D. M. (2018). “More than Meets the Eye” - Analyzing the Success of User Queries in Oria. Nordic Journal of Information Literacy in Higher Education - NORIL, 10(1), 18-36. https://doi.org/10.15845/noril.v10i1.270
+
+For LaTex and Bib(La)Tex users:
+
+@Article{noril.v10i1.270,
+  author   = {Huurdeman, H.~C. and Aamodt, M. and Heggø, D.~M.},
+  title    = {`More than Meets the Eye' -- Analyzing the Success of User Queries in Oria},
+  journal  = {Nordic Journal of Information Literacy in Higher Education - NORIL},
+  keywords = {user queries, query log analysis, user experience, oria, primo},
+  year     = {2018},
+  volume   = {10},
+  number   = {1},
+  pages    = {18-36},
+  doi      = {10.15845/noril.v10i1.270}
+}
