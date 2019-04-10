@@ -7,7 +7,7 @@ For LaTex and Bib(La)Tex users:
 @Article{noril.v10i1.270,
   author   = {Huurdeman, H.~C. and Aamodt, M. and Heggø, D.~M.},
   title    = {`More than Meets the Eye' -- Analyzing the Success of User Queries in Oria},
-  journal  = {Nordic Journal of Information Literacy in Higher Education - NORIL},
+  journal  = {Nordic Journal of Information Literacy in Higher Education},
   keywords = {user queries, query log analysis, user experience, oria, primo},
   year     = {2018},
   volume   = {10},

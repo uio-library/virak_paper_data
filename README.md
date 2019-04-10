@@ -1,6 +1,6 @@
 This repository contains the data used in the paper:
 
-Huurdeman, H. C., Aamodt, M., & Heggø, D. M. (2018). “More than Meets the Eye” – Analyzing the Success of User Queries in Oria. *Nordic Journal of Information Literacy in Higher Education - NORIL*, 10(1), 18–36. https://doi.org/10.15845/noril.v10i1.270
+Huurdeman, H. C., Aamodt, M., & Heggø, D. M. (2018). “More than Meets the Eye” – Analyzing the Success of User Queries in Oria. *Nordic Journal of Information Literacy in Higher Education*, 10(1), 18–36. https://doi.org/10.15845/noril.v10i1.270
 
 
 ### Contents
